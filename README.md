@@ -1,4 +1,6 @@
-# JWT-Authentication-in-Django
+# JWT-Authentication-in-Django 
+<br>
+## JSON WEB TOKENS Authentications in Django 
 <h1> Running the Project Locally </h1> <br>
 First, clone the repository to your local machine:
 <br>
