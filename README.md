@@ -2,7 +2,7 @@
 <h1> Running the Project Locally </h1> <br>
 First, clone the repository to your local machine:
 <br>
-git clone https://github.com/sibtc/drf-jwt-example.git <br>
+git clone https://github.com/faheem77/JWT-Authentication-in-Django.git <br>
 Install the requirements: <br>
 
 pip install -r requirements.txt <br>
